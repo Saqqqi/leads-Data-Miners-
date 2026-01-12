@@ -1,0 +1,480 @@
+Raw POST Data: Array
+(
+    [leads_data] => [{"lead_name":"David ","lead_date":"2025-03-13","lead_location":"Saqlain","phone_numbers":"2342352253,2342342345,1255664232","emails":"saqhdshdh@gmail.com,sdhashdash@yhaoo.com,hdashyeu@outlet.com","primaryNumber":"27346762376,34763636"},{"lead_name":"Owner","lead_date":"2025-03-13","lead_location":"USA","phone_numbers":"","emails":"","primaryNumber":"2353454534,345345346"},{"lead_name":"fdsfsd","lead_date":"2025-03-13","lead_location":"dfsdf","phone_numbers":"3242344333","emails":"sdfsddsd@gmail.com","primaryNumber":""},{"lead_name":"Muhammad saqlain","lead_date":"2025-03-13","lead_location":"gngh","phone_numbers":"","emails":"","primaryNumber":"4335322111"},{"lead_name":"Muhammad saqlain","lead_date":"2025-03-13","lead_location":"USA","phone_numbers":"","emails":"","primaryNumber":""},{"lead_name":"Muhammad saqlain","lead_date":"2025-03-13","lead_location":"usa","phone_numbers":"","emails":"","primaryNumber":""},{"lead_name":"Muhammad saqlain","lead_date":"2025-03-13","lead_location":"usa","phone_numbers":"","emails":"","primaryNumber":""},{"lead_name":"Muhammad saqlain","lead_date":"2025-03-13","lead_location":"usa","phone_numbers":"","emails":"","primaryNumber":""},{"lead_name":"Muhammad saqlain","lead_date":"2025-03-13","lead_location":"USA","phone_numbers":"","emails":"","primaryNumber":""},{"lead_name":"Muhammad saqlain","lead_date":"2025-03-13","lead_location":"USAS","phone_numbers":"","emails":"","primaryNumber":""},{"lead_name":"Muhammad saqlain1","lead_date":"2025-03-13","lead_location":"usa","phone_numbers":"","emails":"","primaryNumber":""},{"lead_name":"Muhammad saqlain","lead_date":"2025-03-14","lead_location":"USa , a","phone_numbers":"","emails":"","primaryNumber":""},{"lead_name":"Vanessa Orellana","lead_date":"2025-03-14","lead_location":"Bakersfield, CA\t","phone_numbers":"","emails":"","primaryNumber":""},{"lead_name":"Muhammad saqlain","lead_date":"2025-03-14","lead_location":"fdfd","phone_numbers":"","emails":"","primaryNumber":""},{"lead_name":"435345","lead_date":"2025-03-14","lead_location":"5345","phone_numbers":"","emails":"","primaryNumber":""},{"lead_name":"qwdwed","lead_date":"2025-03-14","lead_location":"were","phone_numbers":"","emails":"","primaryNumber":""},{"lead_name":"Muhammad saqlain","lead_date":"2025-03-15","lead_location":"werwer","phone_numbers":"4352322222","emails":"","primaryNumber":""},{"lead_name":"asdasd","lead_date":"2025-03-15","lead_location":"asdas","phone_numbers":"","emails":"","primaryNumber":""},{"lead_name":"Muhammad saqlain","lead_date":"2025-03-15","lead_location":"fgvcbcv","phone_numbers":"","emails":"","primaryNumber":""},{"lead_name":"qweqwe","lead_date":"2025-03-17","lead_location":"qweqweqw","phone_numbers":"4523431232","emails":"herllo@gmail.com","primaryNumber":""},{"lead_name":"saS","lead_date":"2025-03-21","lead_location":"Asa","phone_numbers":"","emails":"","primaryNumber":""},{"lead_name":"Muhammad saqlain","lead_date":"2025-03-21","lead_location":"usa","phone_numbers":"","emails":"","primaryNumber":""},{"lead_name":"Muhammad saqlain","lead_date":"2025-03-21","lead_location":"usa","phone_numbers":"","emails":"","primaryNumber":""}]
+)
+
+Decoded Data: Array
+(
+    [0] => Array
+        (
+            [lead_name] => David 
+            [lead_date] => 2025-03-13
+            [lead_location] => Saqlain
+            [phone_numbers] => 2342352253,2342342345,1255664232
+            [emails] => saqhdshdh@gmail.com,sdhashdash@yhaoo.com,hdashyeu@outlet.com
+            [primaryNumber] => 27346762376,34763636
+        )
+
+    [1] => Array
+        (
+            [lead_name] => Owner
+            [lead_date] => 2025-03-13
+            [lead_location] => USA
+            [phone_numbers] => 
+            [emails] => 
+            [primaryNumber] => 2353454534,345345346
+        )
+
+    [2] => Array
+        (
+            [lead_name] => fdsfsd
+            [lead_date] => 2025-03-13
+            [lead_location] => dfsdf
+            [phone_numbers] => 3242344333
+            [emails] => sdfsddsd@gmail.com
+            [primaryNumber] => 
+        )
+
+    [3] => Array
+        (
+            [lead_name] => Muhammad saqlain
+            [lead_date] => 2025-03-13
+            [lead_location] => gngh
+            [phone_numbers] => 
+            [emails] => 
+            [primaryNumber] => 4335322111
+        )
+
+    [4] => Array
+        (
+            [lead_name] => Muhammad saqlain
+            [lead_date] => 2025-03-13
+            [lead_location] => USA
+            [phone_numbers] => 
+            [emails] => 
+            [primaryNumber] => 
+        )
+
+    [5] => Array
+        (
+            [lead_name] => Muhammad saqlain
+            [lead_date] => 2025-03-13
+            [lead_location] => usa
+            [phone_numbers] => 
+            [emails] => 
+            [primaryNumber] => 
+        )
+
+    [6] => Array
+        (
+            [lead_name] => Muhammad saqlain
+            [lead_date] => 2025-03-13
+            [lead_location] => usa
+            [phone_numbers] => 
+            [emails] => 
+            [primaryNumber] => 
+        )
+
+    [7] => Array
+        (
+            [lead_name] => Muhammad saqlain
+            [lead_date] => 2025-03-13
+            [lead_location] => usa
+            [phone_numbers] => 
+            [emails] => 
+            [primaryNumber] => 
+        )
+
+    [8] => Array
+        (
+            [lead_name] => Muhammad saqlain
+            [lead_date] => 2025-03-13
+            [lead_location] => USA
+            [phone_numbers] => 
+            [emails] => 
+            [primaryNumber] => 
+        )
+
+    [9] => Array
+        (
+            [lead_name] => Muhammad saqlain
+            [lead_date] => 2025-03-13
+            [lead_location] => USAS
+            [phone_numbers] => 
+            [emails] => 
+            [primaryNumber] => 
+        )
+
+    [10] => Array
+        (
+            [lead_name] => Muhammad saqlain1
+            [lead_date] => 2025-03-13
+            [lead_location] => usa
+            [phone_numbers] => 
+            [emails] => 
+            [primaryNumber] => 
+        )
+
+    [11] => Array
+        (
+            [lead_name] => Muhammad saqlain
+            [lead_date] => 2025-03-14
+            [lead_location] => USa , a
+            [phone_numbers] => 
+            [emails] => 
+            [primaryNumber] => 
+        )
+
+    [12] => Array
+        (
+            [lead_name] => Vanessa Orellana
+            [lead_date] => 2025-03-14
+            [lead_location] => Bakersfield, CA	
+            [phone_numbers] => 
+            [emails] => 
+            [primaryNumber] => 
+        )
+
+    [13] => Array
+        (
+            [lead_name] => Muhammad saqlain
+            [lead_date] => 2025-03-14
+            [lead_location] => fdfd
+            [phone_numbers] => 
+            [emails] => 
+            [primaryNumber] => 
+        )
+
+    [14] => Array
+        (
+            [lead_name] => 435345
+            [lead_date] => 2025-03-14
+            [lead_location] => 5345
+            [phone_numbers] => 
+            [emails] => 
+            [primaryNumber] => 
+        )
+
+    [15] => Array
+        (
+            [lead_name] => qwdwed
+            [lead_date] => 2025-03-14
+            [lead_location] => were
+            [phone_numbers] => 
+            [emails] => 
+            [primaryNumber] => 
+        )
+
+    [16] => Array
+        (
+            [lead_name] => Muhammad saqlain
+            [lead_date] => 2025-03-15
+            [lead_location] => werwer
+            [phone_numbers] => 4352322222
+            [emails] => 
+            [primaryNumber] => 
+        )
+
+    [17] => Array
+        (
+            [lead_name] => asdasd
+            [lead_date] => 2025-03-15
+            [lead_location] => asdas
+            [phone_numbers] => 
+            [emails] => 
+            [primaryNumber] => 
+        )
+
+    [18] => Array
+        (
+            [lead_name] => Muhammad saqlain
+            [lead_date] => 2025-03-15
+            [lead_location] => fgvcbcv
+            [phone_numbers] => 
+            [emails] => 
+            [primaryNumber] => 
+        )
+
+    [19] => Array
+        (
+            [lead_name] => qweqwe
+            [lead_date] => 2025-03-17
+            [lead_location] => qweqweqw
+            [phone_numbers] => 4523431232
+            [emails] => herllo@gmail.com
+            [primaryNumber] => 
+        )
+
+    [20] => Array
+        (
+            [lead_name] => saS
+            [lead_date] => 2025-03-21
+            [lead_location] => Asa
+            [phone_numbers] => 
+            [emails] => 
+            [primaryNumber] => 
+        )
+
+    [21] => Array
+        (
+            [lead_name] => Muhammad saqlain
+            [lead_date] => 2025-03-21
+            [lead_location] => usa
+            [phone_numbers] => 
+            [emails] => 
+            [primaryNumber] => 
+        )
+
+    [22] => Array
+        (
+            [lead_name] => Muhammad saqlain
+            [lead_date] => 2025-03-21
+            [lead_location] => usa
+            [phone_numbers] => 
+            [emails] => 
+            [primaryNumber] => 
+        )
+
+)
+
+Error: Invalid data structure - missing 'data.leads'
+Raw POST Data: Array
+(
+    [leads_data] => [{"lead_name":"David ","lead_date":"2025-03-13","lead_location":"Saqlain","phone_numbers":"2342352253,2342342345,1255664232","emails":"saqhdshdh@gmail.com,sdhashdash@yhaoo.com,hdashyeu@outlet.com","primaryNumber":"27346762376,34763636"},{"lead_name":"Owner","lead_date":"2025-03-13","lead_location":"USA","phone_numbers":"","emails":"","primaryNumber":"2353454534,345345346"},{"lead_name":"fdsfsd","lead_date":"2025-03-13","lead_location":"dfsdf","phone_numbers":"3242344333","emails":"sdfsddsd@gmail.com","primaryNumber":""},{"lead_name":"Muhammad saqlain","lead_date":"2025-03-13","lead_location":"gngh","phone_numbers":"","emails":"","primaryNumber":"4335322111"},{"lead_name":"Muhammad saqlain","lead_date":"2025-03-13","lead_location":"USA","phone_numbers":"","emails":"","primaryNumber":""},{"lead_name":"Muhammad saqlain","lead_date":"2025-03-13","lead_location":"usa","phone_numbers":"","emails":"","primaryNumber":""},{"lead_name":"Muhammad saqlain","lead_date":"2025-03-13","lead_location":"usa","phone_numbers":"","emails":"","primaryNumber":""},{"lead_name":"Muhammad saqlain","lead_date":"2025-03-13","lead_location":"usa","phone_numbers":"","emails":"","primaryNumber":""},{"lead_name":"Muhammad saqlain","lead_date":"2025-03-13","lead_location":"USA","phone_numbers":"","emails":"","primaryNumber":""},{"lead_name":"Muhammad saqlain","lead_date":"2025-03-13","lead_location":"USAS","phone_numbers":"","emails":"","primaryNumber":""},{"lead_name":"Muhammad saqlain1","lead_date":"2025-03-13","lead_location":"usa","phone_numbers":"","emails":"","primaryNumber":""},{"lead_name":"Muhammad saqlain","lead_date":"2025-03-14","lead_location":"USa , a","phone_numbers":"","emails":"","primaryNumber":""},{"lead_name":"Vanessa Orellana","lead_date":"2025-03-14","lead_location":"Bakersfield, CA\t","phone_numbers":"","emails":"","primaryNumber":""},{"lead_name":"Muhammad saqlain","lead_date":"2025-03-14","lead_location":"fdfd","phone_numbers":"","emails":"","primaryNumber":""},{"lead_name":"435345","lead_date":"2025-03-14","lead_location":"5345","phone_numbers":"","emails":"","primaryNumber":""},{"lead_name":"qwdwed","lead_date":"2025-03-14","lead_location":"were","phone_numbers":"","emails":"","primaryNumber":""},{"lead_name":"Muhammad saqlain","lead_date":"2025-03-15","lead_location":"werwer","phone_numbers":"4352322222","emails":"","primaryNumber":""},{"lead_name":"asdasd","lead_date":"2025-03-15","lead_location":"asdas","phone_numbers":"","emails":"","primaryNumber":""},{"lead_name":"Muhammad saqlain","lead_date":"2025-03-15","lead_location":"fgvcbcv","phone_numbers":"","emails":"","primaryNumber":""},{"lead_name":"qweqwe","lead_date":"2025-03-17","lead_location":"qweqweqw","phone_numbers":"4523431232","emails":"herllo@gmail.com","primaryNumber":""},{"lead_name":"saS","lead_date":"2025-03-21","lead_location":"Asa","phone_numbers":"","emails":"","primaryNumber":""},{"lead_name":"Muhammad saqlain","lead_date":"2025-03-21","lead_location":"usa","phone_numbers":"","emails":"","primaryNumber":""},{"lead_name":"Muhammad saqlain","lead_date":"2025-03-21","lead_location":"usa","phone_numbers":"","emails":"","primaryNumber":""}]
+)
+
+Decoded Data: Array
+(
+    [0] => Array
+        (
+            [lead_name] => David 
+            [lead_date] => 2025-03-13
+            [lead_location] => Saqlain
+            [phone_numbers] => 2342352253,2342342345,1255664232
+            [emails] => saqhdshdh@gmail.com,sdhashdash@yhaoo.com,hdashyeu@outlet.com
+            [primaryNumber] => 27346762376,34763636
+        )
+
+    [1] => Array
+        (
+            [lead_name] => Owner
+            [lead_date] => 2025-03-13
+            [lead_location] => USA
+            [phone_numbers] => 
+            [emails] => 
+            [primaryNumber] => 2353454534,345345346
+        )
+
+    [2] => Array
+        (
+            [lead_name] => fdsfsd
+            [lead_date] => 2025-03-13
+            [lead_location] => dfsdf
+            [phone_numbers] => 3242344333
+            [emails] => sdfsddsd@gmail.com
+            [primaryNumber] => 
+        )
+
+    [3] => Array
+        (
+            [lead_name] => Muhammad saqlain
+            [lead_date] => 2025-03-13
+            [lead_location] => gngh
+            [phone_numbers] => 
+            [emails] => 
+            [primaryNumber] => 4335322111
+        )
+
+    [4] => Array
+        (
+            [lead_name] => Muhammad saqlain
+            [lead_date] => 2025-03-13
+            [lead_location] => USA
+            [phone_numbers] => 
+            [emails] => 
+            [primaryNumber] => 
+        )
+
+    [5] => Array
+        (
+            [lead_name] => Muhammad saqlain
+            [lead_date] => 2025-03-13
+            [lead_location] => usa
+            [phone_numbers] => 
+            [emails] => 
+            [primaryNumber] => 
+        )
+
+    [6] => Array
+        (
+            [lead_name] => Muhammad saqlain
+            [lead_date] => 2025-03-13
+            [lead_location] => usa
+            [phone_numbers] => 
+            [emails] => 
+            [primaryNumber] => 
+        )
+
+    [7] => Array
+        (
+            [lead_name] => Muhammad saqlain
+            [lead_date] => 2025-03-13
+            [lead_location] => usa
+            [phone_numbers] => 
+            [emails] => 
+            [primaryNumber] => 
+        )
+
+    [8] => Array
+        (
+            [lead_name] => Muhammad saqlain
+            [lead_date] => 2025-03-13
+            [lead_location] => USA
+            [phone_numbers] => 
+            [emails] => 
+            [primaryNumber] => 
+        )
+
+    [9] => Array
+        (
+            [lead_name] => Muhammad saqlain
+            [lead_date] => 2025-03-13
+            [lead_location] => USAS
+            [phone_numbers] => 
+            [emails] => 
+            [primaryNumber] => 
+        )
+
+    [10] => Array
+        (
+            [lead_name] => Muhammad saqlain1
+            [lead_date] => 2025-03-13
+            [lead_location] => usa
+            [phone_numbers] => 
+            [emails] => 
+            [primaryNumber] => 
+        )
+
+    [11] => Array
+        (
+            [lead_name] => Muhammad saqlain
+            [lead_date] => 2025-03-14
+            [lead_location] => USa , a
+            [phone_numbers] => 
+            [emails] => 
+            [primaryNumber] => 
+        )
+
+    [12] => Array
+        (
+            [lead_name] => Vanessa Orellana
+            [lead_date] => 2025-03-14
+            [lead_location] => Bakersfield, CA	
+            [phone_numbers] => 
+            [emails] => 
+            [primaryNumber] => 
+        )
+
+    [13] => Array
+        (
+            [lead_name] => Muhammad saqlain
+            [lead_date] => 2025-03-14
+            [lead_location] => fdfd
+            [phone_numbers] => 
+            [emails] => 
+            [primaryNumber] => 
+        )
+
+    [14] => Array
+        (
+            [lead_name] => 435345
+            [lead_date] => 2025-03-14
+            [lead_location] => 5345
+            [phone_numbers] => 
+            [emails] => 
+            [primaryNumber] => 
+        )
+
+    [15] => Array
+        (
+            [lead_name] => qwdwed
+            [lead_date] => 2025-03-14
+            [lead_location] => were
+            [phone_numbers] => 
+            [emails] => 
+            [primaryNumber] => 
+        )
+
+    [16] => Array
+        (
+            [lead_name] => Muhammad saqlain
+            [lead_date] => 2025-03-15
+            [lead_location] => werwer
+            [phone_numbers] => 4352322222
+            [emails] => 
+            [primaryNumber] => 
+        )
+
+    [17] => Array
+        (
+            [lead_name] => asdasd
+            [lead_date] => 2025-03-15
+            [lead_location] => asdas
+            [phone_numbers] => 
+            [emails] => 
+            [primaryNumber] => 
+        )
+
+    [18] => Array
+        (
+            [lead_name] => Muhammad saqlain
+            [lead_date] => 2025-03-15
+            [lead_location] => fgvcbcv
+            [phone_numbers] => 
+            [emails] => 
+            [primaryNumber] => 
+        )
+
+    [19] => Array
+        (
+            [lead_name] => qweqwe
+            [lead_date] => 2025-03-17
+            [lead_location] => qweqweqw
+            [phone_numbers] => 4523431232
+            [emails] => herllo@gmail.com
+            [primaryNumber] => 
+        )
+
+    [20] => Array
+        (
+            [lead_name] => saS
+            [lead_date] => 2025-03-21
+            [lead_location] => Asa
+            [phone_numbers] => 
+            [emails] => 
+            [primaryNumber] => 
+        )
+
+    [21] => Array
+        (
+            [lead_name] => Muhammad saqlain
+            [lead_date] => 2025-03-21
+            [lead_location] => usa
+            [phone_numbers] => 
+            [emails] => 
+            [primaryNumber] => 
+        )
+
+    [22] => Array
+        (
+            [lead_name] => Muhammad saqlain
+            [lead_date] => 2025-03-21
+            [lead_location] => usa
+            [phone_numbers] => 
+            [emails] => 
+            [primaryNumber] => 
+        )
+
+)
+
+Error: 'data' key is missing or not an array
